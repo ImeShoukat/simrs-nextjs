@@ -7,4 +7,8 @@ const DashboardDokter = () => {
     </div>
   );
 }
+export const metadata = {
+  title: "Dashboard Dokter",
+  description: "Tempat dokter mengelola data kunjungan pasien",
+};
 export default DashboardDokter;
